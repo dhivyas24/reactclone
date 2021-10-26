@@ -1,0 +1,33 @@
+.sidebarchata{
+
+  
+    border-bottom: 1px solid #f6f6f6;
+}
+.sidebarchats{
+    display: flex;
+    padding: 13px;
+    cursor:pointer;
+  
+    
+
+  
+
+}
+.sidebarchats:hover{
+    background-color: #ebebeb;
+}
+
+.sidebarinfo>h2{
+    font-size: 20px;
+    margin-bottom: 8px;
+
+}
+.sidebarchatinfo{
+ 
+    padding-left: 20px;
+
+}
+.ava{
+    width: 50px !important; 
+    height : 50px !important;
+}
